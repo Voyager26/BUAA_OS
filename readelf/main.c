@@ -15,8 +15,6 @@ int main(int argc,char *argv[])
         FILE* fp;
         int fsize;
         unsigned char *p;
-
-
         if(argc < 2)
         {
                 printf("Please input the filename.\n");
